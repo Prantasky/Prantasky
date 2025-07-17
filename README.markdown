@@ -10,8 +10,8 @@
     <a href="https://app.cybrary.it/profile/Prantasky" style="text-decoration: none;"><img src="https://img.shields.io/badge/Cybrary-ff9800?style=for-the-badge" alt="Cybrary"></a>
     <a href="https://hackthebox.com/prantasky" style="text-decoration: none;"><img src="https://img.shields.io/badge/HackTheBox-2196f3?style=for-the-badge" alt="HackTheBox"></a>
   </div>
-  <p style="color: #bbb; font-size: 14px; margin-top: 10px;">Last updated: Friday, July 18, 2025, 02:27 AM +06</p>
-</div>
+ 
+
 
 ---
 
